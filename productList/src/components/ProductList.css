@@ -1,0 +1,16 @@
+#addButton {
+    background-color: brown !important;
+    color: white !important;
+    outline: none !important;
+    border: none !important;
+}
+
+#addButton:hover {
+    outline-style: none !important;
+    border: none !important;
+    background-color: burlywood !important;
+    color: brown !important;
+    transition: all .4s;
+    outline: none !important;
+    border-color: transparent !important;
+}

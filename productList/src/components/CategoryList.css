@@ -1,0 +1,15 @@
+li {
+    border: none !important;
+}
+
+#categoryLİstItem.active {
+    background-color: brown !important;
+}
+
+.text-brown {
+    color: brown !important;
+}
+
+.bg-brown {
+    background-color: brown !important;
+}
